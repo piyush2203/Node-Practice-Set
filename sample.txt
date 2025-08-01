@@ -1,0 +1,19 @@
+Why Do We Need Content-Type?
+The browser doesn’t know how to display the response unless we tell it.
+
+Example:
+
+text/html → Show as a webpage
+
+application/json → Treat as JSON
+
+text/plain → Just plain text
+
+
+
+Common Content-Types You Should Know
+✔ text/html → For HTML pages
+✔ application/json → For APIs returning JSON
+✔ text/plain → For plain text
+✔ image/png or image/jpeg → For images
+✔ application/pdf → For PDF files
